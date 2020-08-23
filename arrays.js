@@ -23,6 +23,7 @@ function addElementToBeginningOfArray(array, element) {
     return array;
   }
   
+<<<<<<< HEAD
   function accessElementInArray(array, index) {
     var arrayElement = (array[index]);
     return arrayElement;
@@ -47,3 +48,6 @@ function addElementToBeginningOfArray(array, element) {
    var newArray = array.slice(0, array.length - 1);
    return newArray;
   }
+=======
+  function 
+>>>>>>> 407767d608737541c9b0d4b3406289985a51b3ab
